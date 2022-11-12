@@ -2,7 +2,7 @@ unit uMonitorInfo;
 
 interface
 
-//Version: 0.5 (2022-11-12)
+//Version: 0.5.1 (2022-11-12)
 //Author: domasz
 //Updates: howardpc, KodeZwerg
 //Licence: MIT
@@ -214,7 +214,8 @@ const Company: array[0..2520] of TCompany = (
 (Short: 'AUD'; Full: 'AudioControl'),
 (Short: 'AUG'; Full: 'August Home, Inc.'),
 (Short: 'AUI'; Full: 'ALPS ALPINE CO., LTD.'),
-(Short: 'AUO'; Full: 'DO NOT USE - AUO'),
+//(Short: 'AUO'; Full: 'DO NOT USE - AUO'),
+(Short: 'AUO'; Full: 'AUO Corporation),
 (Short: 'AUR'; Full: 'Aureal Semiconductor'),
 (Short: 'AUS'; Full: 'ASUSTek COMPUTER INC'),
 (Short: 'AUT'; Full: 'Autotime Corporation'),
